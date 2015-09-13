@@ -1,4 +1,4 @@
-package anajavatica.pattern.structural.flyweight.proxy.protection;
+package anajavatica.pattern.structural.proxy.protection;
 
 public class Cheque implements IPayable {
 

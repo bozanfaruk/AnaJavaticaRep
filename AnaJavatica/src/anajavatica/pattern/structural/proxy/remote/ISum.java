@@ -1,4 +1,4 @@
-package anajavatica.pattern.structural.flyweight.proxy.remote;
+package anajavatica.pattern.structural.proxy.remote;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
