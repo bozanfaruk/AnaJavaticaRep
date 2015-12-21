@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editors>
+	<editor name="Eclipse">
+		<languages>
+			<language name="Java" memory="512" />
+			<language name="C++" memory="200" />
+			<language name="Android" memory="1000" />
+		</languages>
+	</editor>
+	<editor name="NetBeans">
+		<languages>
+			<language name="Java" memory="600" />
+			<language name="C++" memory="400" />
+		</languages>
+	</editor>
+</editors>
