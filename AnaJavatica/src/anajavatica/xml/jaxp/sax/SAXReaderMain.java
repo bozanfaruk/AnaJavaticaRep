@@ -14,9 +14,11 @@ public class SAXReaderMain {
 
 	public static void main(String[] args) throws SAXException, FileNotFoundException, IOException {
 
-		XMLReader okuyucu = XMLReaderFactory.createXMLReader();
-		okuyucu.setContentHandler(new SAXReader());
-		okuyucu.parse(new InputSource(new FileInputStream(new File("jaxp.xml"))));
+		XMLReader xmlReader = XMLReaderFactory.createXMLReader();
+		SAXReader saxReader = new SAXReader();
+		xmlReader.setContentHandler(saxReader);
+		xmlReader.parse(new InputSource(new FileInputStream(new File("jaxp.xml"))));
+		saxReader.printInfo();
 
 	}
 
