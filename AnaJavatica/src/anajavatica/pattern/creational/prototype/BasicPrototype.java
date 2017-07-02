@@ -1,5 +1,6 @@
 package anajavatica.pattern.creational.prototype;
 
+@SuppressWarnings("javadoc")
 public class BasicPrototype implements IProtoype<BasicPrototype>, Cloneable {
 
 	private String color = "";

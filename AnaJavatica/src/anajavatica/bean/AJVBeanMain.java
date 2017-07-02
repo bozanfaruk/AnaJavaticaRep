@@ -3,6 +3,7 @@ package anajavatica.bean;
 import java.awt.Color;
 import java.beans.PropertyVetoException;
 
+@SuppressWarnings("javadoc")
 public class AJVBeanMain {
 
 	public static void main(String[] args) throws PropertyVetoException {

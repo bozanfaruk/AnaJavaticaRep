@@ -3,6 +3,7 @@ package anajavatica.xml.jaxp.sax;
 import java.util.ArrayList;
 import java.util.List;
 
+@SuppressWarnings("javadoc")
 public class Editor {
 
 	private String name = "";

@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.facade;
 
+@SuppressWarnings("javadoc")
 public interface IGear {
 
 	public static final int GEAR_MAN = 1;

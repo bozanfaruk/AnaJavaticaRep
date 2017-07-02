@@ -1,5 +1,6 @@
 package anajavatica.pattern.creational.abstractfactory;
 
+@SuppressWarnings("javadoc")
 public class ParallelPortWriter implements IPortWriter {
 
 	@Override

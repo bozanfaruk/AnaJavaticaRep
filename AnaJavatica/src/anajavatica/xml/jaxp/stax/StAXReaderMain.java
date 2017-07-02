@@ -4,6 +4,7 @@ import java.io.FileNotFoundException;
 
 import javax.xml.stream.XMLStreamException;
 
+@SuppressWarnings("javadoc")
 public class StAXReaderMain {
 
 	public static void main(String[] args) throws FileNotFoundException, XMLStreamException {

@@ -1,5 +1,6 @@
 package anajavatica.junit;
 
+@SuppressWarnings("javadoc")
 public class MathOperations {
 
 	public int sum(int val1, int val2) {

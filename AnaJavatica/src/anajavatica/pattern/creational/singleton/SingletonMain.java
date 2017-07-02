@@ -1,5 +1,6 @@
 package anajavatica.pattern.creational.singleton;
 
+@SuppressWarnings("javadoc")
 public class SingletonMain {
 
 	public static void main(String[] args) {

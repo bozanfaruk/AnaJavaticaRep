@@ -4,6 +4,7 @@ import java.net.MalformedURLException;
 import java.rmi.Naming;
 import java.rmi.RemoteException;
 
+@SuppressWarnings("javadoc")
 public class ServerMain {
 
 	public static void main(String[] args) {

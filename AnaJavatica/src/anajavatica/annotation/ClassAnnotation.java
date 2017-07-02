@@ -7,6 +7,7 @@ import java.lang.annotation.Target;
 
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)
+@SuppressWarnings("javadoc")
 public @interface ClassAnnotation {
 
 	public String IDE();

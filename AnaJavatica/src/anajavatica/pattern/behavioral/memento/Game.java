@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.memento;
 
+@SuppressWarnings("javadoc")
 public class Game {
 
 	private int level = 0;
@@ -26,6 +27,7 @@ public class Game {
 
 }
 
+@SuppressWarnings("javadoc")
 class LevelMemento {
 
 	private int level = 0;

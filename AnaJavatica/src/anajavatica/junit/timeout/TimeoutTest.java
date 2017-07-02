@@ -3,6 +3,7 @@ package anajavatica.junit.timeout;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+@SuppressWarnings("javadoc")
 public class TimeoutTest {
 
 	private static Timeout timeout = null;

@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.chain;
 
+@SuppressWarnings("javadoc")
 public class Car {
 
 	private int type = CAR_TYPE_AUDI;

@@ -1,6 +1,7 @@
 package anajavatica.annotation;
 
 @ClassAnnotation(IDE = "Eclipse")
+@SuppressWarnings("javadoc")
 public class CustomAnn {
 
 	@MethodAnnotation(author = "Author1", rate = 50)

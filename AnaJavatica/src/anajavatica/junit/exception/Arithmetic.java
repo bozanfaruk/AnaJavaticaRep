@@ -1,5 +1,6 @@
 package anajavatica.junit.exception;
 
+@SuppressWarnings("javadoc")
 public class Arithmetic {
 
 	public int div(int value1, int value2) throws ArithmeticException {

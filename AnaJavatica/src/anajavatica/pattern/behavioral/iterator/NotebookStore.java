@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.iterator;
 
+@SuppressWarnings("javadoc")
 public class NotebookStore {
 
 	private Notebook[] notebookList = null;

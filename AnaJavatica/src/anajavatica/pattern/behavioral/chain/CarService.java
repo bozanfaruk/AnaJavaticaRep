@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.chain;
 
+@SuppressWarnings("javadoc")
 public abstract class CarService {
 
 	private CarService nextService = null;

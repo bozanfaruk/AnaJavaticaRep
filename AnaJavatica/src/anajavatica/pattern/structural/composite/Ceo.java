@@ -3,6 +3,7 @@ package anajavatica.pattern.structural.composite;
 import java.util.HashSet;
 import java.util.Set;
 
+@SuppressWarnings("javadoc")
 public class Ceo implements IEmployee {
 
 	private String info = "";

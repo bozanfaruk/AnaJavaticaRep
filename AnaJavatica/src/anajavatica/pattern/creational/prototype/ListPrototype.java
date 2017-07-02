@@ -3,6 +3,7 @@ package anajavatica.pattern.creational.prototype;
 import java.util.ArrayList;
 import java.util.List;
 
+@SuppressWarnings("javadoc")
 public class ListPrototype implements IProtoype<ListPrototype>, Cloneable {
 
 	private List<String> colorList = new ArrayList<String>();

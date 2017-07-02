@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.iterator;
 
+@SuppressWarnings("javadoc")
 public class NotebookIterator implements Iterator<Notebook> {
 
 	private Notebook[] notebookList = null;

@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.mediator;
 
+@SuppressWarnings("javadoc")
 public class Flight {
 
 	private String flightName = "";

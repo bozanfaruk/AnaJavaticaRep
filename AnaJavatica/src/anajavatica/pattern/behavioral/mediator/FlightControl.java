@@ -3,6 +3,7 @@ package anajavatica.pattern.behavioral.mediator;
 import java.util.ArrayList;
 import java.util.List;
 
+@SuppressWarnings("javadoc")
 public class FlightControl {
 
 	private List<Flight> flightList = new ArrayList<Flight>();

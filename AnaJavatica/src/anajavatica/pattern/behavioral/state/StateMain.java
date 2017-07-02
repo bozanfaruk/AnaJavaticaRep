@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.state;
 
+@SuppressWarnings("javadoc")
 public class StateMain {
 
 	public static void main(String[] args) {

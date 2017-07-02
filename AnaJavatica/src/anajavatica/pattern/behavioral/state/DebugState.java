@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.state;
 
+@SuppressWarnings("javadoc")
 public class DebugState implements IState {
 
 	public void updateState(Editor editor) {

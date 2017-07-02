@@ -12,6 +12,7 @@ import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 
 @RunWith(Parameterized.class)
+@SuppressWarnings("javadoc")
 public class SequenceSumTest {
 
 	private static SequenceSum sequence = null;

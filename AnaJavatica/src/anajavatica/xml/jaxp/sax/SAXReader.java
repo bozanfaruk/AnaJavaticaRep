@@ -8,6 +8,7 @@ import org.xml.sax.ContentHandler;
 import org.xml.sax.Locator;
 import org.xml.sax.SAXException;
 
+@SuppressWarnings("javadoc")
 public class SAXReader implements ContentHandler {
 
 	private static final String KEYWORD_EDITOR = "editor";

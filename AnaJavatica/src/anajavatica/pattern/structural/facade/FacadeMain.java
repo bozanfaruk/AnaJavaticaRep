@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.facade;
 
+@SuppressWarnings("javadoc")
 public class FacadeMain {
 
 	public static void main(String[] args) {

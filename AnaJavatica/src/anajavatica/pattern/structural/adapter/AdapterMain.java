@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.adapter;
 
+@SuppressWarnings("javadoc")
 public class AdapterMain {
 
 	public static void main(String[] args) {

@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.mediator;
 
+@SuppressWarnings("javadoc")
 public class MediatorMain {
 
 	public static void main(String[] args) {

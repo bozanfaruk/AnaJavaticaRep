@@ -3,6 +3,7 @@ package anajavatica.pattern.behavioral.memento;
 import java.util.ArrayList;
 import java.util.List;
 
+@SuppressWarnings("javadoc")
 public class LevelCaretaker {
 
 	private List<LevelMemento> mementoList = new ArrayList<LevelMemento>();

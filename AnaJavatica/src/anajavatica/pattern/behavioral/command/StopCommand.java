@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.command;
 
+@SuppressWarnings("javadoc")
 public class StopCommand implements ICommand {
 
 	private Car car = null;

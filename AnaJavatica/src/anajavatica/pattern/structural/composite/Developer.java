@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.composite;
 
+@SuppressWarnings("javadoc")
 public class Developer implements IEmployee {
 
 	private String info = "";

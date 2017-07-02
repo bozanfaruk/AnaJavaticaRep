@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.visitor;
 
+@SuppressWarnings("javadoc")
 public class Student implements Visitor {
 
 	@Override

@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.iterator;
 
+@SuppressWarnings("javadoc")
 public class Notebook {
 
 	private String name = "";

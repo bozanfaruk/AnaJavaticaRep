@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.strategy;
 
+@SuppressWarnings("javadoc")
 public class IterationSumStrategy implements ISumStrategy {
 
 	@Override

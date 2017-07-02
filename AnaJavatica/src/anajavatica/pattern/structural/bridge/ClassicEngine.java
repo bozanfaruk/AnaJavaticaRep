@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.bridge;
 
+@SuppressWarnings("javadoc")
 public class ClassicEngine implements IEngine {
 
 	@Override

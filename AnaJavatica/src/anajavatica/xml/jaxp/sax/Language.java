@@ -1,5 +1,6 @@
 package anajavatica.xml.jaxp.sax;
 
+@SuppressWarnings("javadoc")
 public class Language {
 
 	private String name = "";

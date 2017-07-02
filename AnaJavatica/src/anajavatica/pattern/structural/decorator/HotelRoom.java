@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.decorator;
 
+@SuppressWarnings("javadoc")
 public class HotelRoom implements IRoom {
 
 	@Override

@@ -2,6 +2,7 @@ package anajavatica.pattern.creational.builder;
 
 import java.awt.Color;
 
+@SuppressWarnings("javadoc")
 public class CarBuilder {
 
 	private Color carColor = null;

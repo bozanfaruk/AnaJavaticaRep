@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.facade;
 
+@SuppressWarnings("javadoc")
 public class GearFactory {
 
 	private static GearFactory instance = new GearFactory();

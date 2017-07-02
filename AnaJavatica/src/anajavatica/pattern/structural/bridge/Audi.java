@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.bridge;
 
+@SuppressWarnings("javadoc")
 public class Audi extends Car {
 
 	public Audi(String carName, IEngine engine) {

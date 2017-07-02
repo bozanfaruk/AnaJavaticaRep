@@ -1,5 +1,6 @@
 package anajavatica.pattern.creational.singleton;
 
+@SuppressWarnings("javadoc")
 public class Singleton {
 
 	private static Singleton instance = null;

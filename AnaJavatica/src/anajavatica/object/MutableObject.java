@@ -1,5 +1,6 @@
 package anajavatica.object;
 
+@SuppressWarnings("javadoc")
 public class MutableObject {
 
 	private int aField = 0;

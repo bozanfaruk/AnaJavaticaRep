@@ -3,6 +3,7 @@ package anajavatica.pattern.structural.proxy.remote;
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 
+@SuppressWarnings("javadoc")
 public class SumImpl extends UnicastRemoteObject implements ISum {
 
 	protected SumImpl() throws RemoteException {

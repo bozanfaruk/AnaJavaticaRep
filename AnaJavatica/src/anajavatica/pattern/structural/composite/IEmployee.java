@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.composite;
 
+@SuppressWarnings("javadoc")
 public interface IEmployee {
 
 	public boolean addEmployee(IEmployee employee);

@@ -9,6 +9,7 @@ import java.beans.VetoableChangeListener;
 import java.beans.VetoableChangeSupport;
 import java.io.Serializable;
 
+@SuppressWarnings("javadoc")
 public class AJVBean implements Serializable, PropertyChangeListener, VetoableChangeListener {
 
 	private static final long serialVersionUID = 1L;

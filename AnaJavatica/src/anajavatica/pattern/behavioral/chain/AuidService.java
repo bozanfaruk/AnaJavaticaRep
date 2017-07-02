@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.chain;
 
+@SuppressWarnings("javadoc")
 public class AuidService extends CarService {
 
 	@Override

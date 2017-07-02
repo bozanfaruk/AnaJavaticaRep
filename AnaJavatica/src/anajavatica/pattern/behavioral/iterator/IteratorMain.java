@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.iterator;
 
+@SuppressWarnings("javadoc")
 public class IteratorMain {
 
 	public static void main(String[] args) {

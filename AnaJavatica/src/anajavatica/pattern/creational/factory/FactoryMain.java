@@ -1,5 +1,6 @@
 package anajavatica.pattern.creational.factory;
 
+@SuppressWarnings("javadoc")
 public class FactoryMain {
 
 	public static void main(String[] args) {

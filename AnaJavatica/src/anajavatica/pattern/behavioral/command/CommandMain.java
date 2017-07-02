@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.command;
 
+@SuppressWarnings("javadoc")
 public class CommandMain {
 
 	public static void main(String[] args) {

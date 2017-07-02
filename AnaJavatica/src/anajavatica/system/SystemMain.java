@@ -5,6 +5,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Scanner;
 
+@SuppressWarnings("javadoc")
 public class SystemMain {
 
 	public static void main(String[] args) throws IOException {

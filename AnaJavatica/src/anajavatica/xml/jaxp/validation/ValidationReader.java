@@ -4,6 +4,7 @@ import org.xml.sax.ErrorHandler;
 import org.xml.sax.SAXException;
 import org.xml.sax.SAXParseException;
 
+@SuppressWarnings("javadoc")
 public class ValidationReader implements ErrorHandler {
 
 	@Override

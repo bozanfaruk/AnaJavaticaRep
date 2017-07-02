@@ -1,5 +1,6 @@
 package anajavatica.pattern.creational.factory;
 
+@SuppressWarnings("javadoc")
 public class CarB implements ICar {
 
 	@Override

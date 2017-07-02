@@ -1,5 +1,6 @@
 package anajavatica.junit.parameterized;
 
+@SuppressWarnings("javadoc")
 public class SequenceSum {
 
 	public int sum(int begValue, int endValue) {

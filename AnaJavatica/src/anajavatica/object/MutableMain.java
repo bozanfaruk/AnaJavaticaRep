@@ -1,5 +1,6 @@
 package anajavatica.object;
 
+@SuppressWarnings("javadoc")
 public class MutableMain {
 
 	private static final int LOOP = 100000;

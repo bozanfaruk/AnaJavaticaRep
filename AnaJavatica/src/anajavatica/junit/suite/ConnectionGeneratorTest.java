@@ -5,6 +5,7 @@ import static org.junit.Assert.assertNull;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+@SuppressWarnings("javadoc")
 public class ConnectionGeneratorTest {
 
 	private static ConnectionGenerator generator = null;

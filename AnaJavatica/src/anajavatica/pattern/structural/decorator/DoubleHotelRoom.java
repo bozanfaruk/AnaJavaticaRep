@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.decorator;
 
+@SuppressWarnings("javadoc")
 public class DoubleHotelRoom extends HotelRoomDecorator {
 
 	public DoubleHotelRoom(IRoom room) {

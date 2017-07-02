@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.composite;
 
+@SuppressWarnings("javadoc")
 public class CompositeMain {
 
 	public static void main(String[] args) {

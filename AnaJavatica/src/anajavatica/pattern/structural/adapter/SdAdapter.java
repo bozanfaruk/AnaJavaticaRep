@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.adapter;
 
+@SuppressWarnings("javadoc")
 public class SdAdapter implements IUsb {
 
 	private ISd sdCard = null;

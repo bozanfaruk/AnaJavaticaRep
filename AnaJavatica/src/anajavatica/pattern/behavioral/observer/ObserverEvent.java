@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.observer;
 
+@SuppressWarnings("javadoc")
 public class ObserverEvent {
 
 	private Object sourceObject;

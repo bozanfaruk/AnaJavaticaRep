@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.proxy.protection;
 
+@SuppressWarnings("javadoc")
 public class Cheque implements IPayable {
 
 	private IPayable cash = new Cash();

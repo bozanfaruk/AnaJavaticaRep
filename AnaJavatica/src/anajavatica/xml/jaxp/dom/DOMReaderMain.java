@@ -7,6 +7,7 @@ import javax.xml.parsers.ParserConfigurationException;
 
 import org.xml.sax.SAXException;
 
+@SuppressWarnings("javadoc")
 public class DOMReaderMain {
 
 	public static void main(String[] args)

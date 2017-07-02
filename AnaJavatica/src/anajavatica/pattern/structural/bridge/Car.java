@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.bridge;
 
+@SuppressWarnings("javadoc")
 public abstract class Car {
 
 	private IEngine engine = null;

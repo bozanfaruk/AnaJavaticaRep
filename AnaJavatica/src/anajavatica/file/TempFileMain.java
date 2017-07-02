@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
+@SuppressWarnings("javadoc")
 public class TempFileMain {
 
 	private File createTempFile() throws IOException {

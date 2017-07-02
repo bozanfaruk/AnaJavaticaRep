@@ -7,6 +7,7 @@ import java.lang.annotation.Target;
 
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
+@SuppressWarnings("javadoc")
 public @interface MethodAnnotation {
 
 	public String author();

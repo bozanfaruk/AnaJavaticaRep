@@ -3,6 +3,7 @@ package anajavatica.pattern.behavioral.observer;
 import java.util.ArrayList;
 import java.util.List;
 
+@SuppressWarnings("javadoc")
 public class Observer {
 
 	private List<IObserverListener> listenerList = new ArrayList<IObserverListener>();

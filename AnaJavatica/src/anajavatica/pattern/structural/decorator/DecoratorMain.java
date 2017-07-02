@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.decorator;
 
+@SuppressWarnings("javadoc")
 public class DecoratorMain {
 
 	public static void main(String[] args) {

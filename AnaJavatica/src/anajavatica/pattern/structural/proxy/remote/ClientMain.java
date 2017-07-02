@@ -5,6 +5,7 @@ import java.rmi.Naming;
 import java.rmi.NotBoundException;
 import java.rmi.RemoteException;
 
+@SuppressWarnings("javadoc")
 public class ClientMain {
 
 	public static void main(String[] args) {

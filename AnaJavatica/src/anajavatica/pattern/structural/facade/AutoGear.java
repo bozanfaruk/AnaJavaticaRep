@@ -1,5 +1,6 @@
 package anajavatica.pattern.structural.facade;
 
+@SuppressWarnings("javadoc")
 public class AutoGear implements IGear {
 
 	private final int MAX_GEAR = 4;

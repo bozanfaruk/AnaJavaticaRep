@@ -1,5 +1,6 @@
 package anajavatica.pattern.behavioral.memento;
 
+@SuppressWarnings("javadoc")
 public class MementoMain {
 
 	public static void main(String[] args) {

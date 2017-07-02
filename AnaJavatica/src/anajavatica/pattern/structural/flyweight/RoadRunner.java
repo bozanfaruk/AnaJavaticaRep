@@ -3,6 +3,7 @@ package anajavatica.pattern.structural.flyweight;
 import java.util.HashMap;
 import java.util.Map;
 
+@SuppressWarnings("javadoc")
 public class RoadRunner {
 	private Obstacle[] road = new Obstacle[10000];
 	private Map<String, Obstacle> map = new HashMap<String, Obstacle>();

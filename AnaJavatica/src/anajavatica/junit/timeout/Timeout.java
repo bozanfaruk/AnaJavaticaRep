@@ -1,5 +1,6 @@
 package anajavatica.junit.timeout;
 
+@SuppressWarnings("javadoc")
 public class Timeout {
 
 	public void doSomething() {
